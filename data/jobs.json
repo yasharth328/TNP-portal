@@ -1,0 +1,62 @@
+[
+  {
+    "description": "Voluptate nulla occaecat ea proident nisi excepteur et et excepteur.",
+    "company": "adsf",
+    "role": "adf",
+    "website": "https://www.amazon.jobs/en/job_categories/software-development",
+    "extras": {
+      "jobType": "Internship",
+      "salary": 21509,
+      "startDate": "2022-05-02",
+      "endDate": "2022-05-04"
+    },
+    "id": 3,
+    "dateCreated": "2022-05-01T18:55:11.076Z",
+    "dateUpdated": "2022-05-01T18:55:11.076Z"
+  },
+  {
+    "description": "Id consequat dolor minim in eiusmod esse quis occaecat qui labore pariatur proident.",
+    "company": "adsf",
+    "role": "adf",
+    "website": "https://www.amazon.jobs/en/job_categories/software-development",
+    "extras": {
+      "jobType": "Full-Time",
+      "salary": 21509,
+      "startDate": "2022-05-02",
+      "endDate": "2022-05-04"
+    },
+    "id": 4,
+    "dateCreated": "2022-05-01T18:55:11.076Z",
+    "dateUpdated": "2022-05-01T18:55:11.076Z"
+  },
+  {
+    "description": "Proident laboris aliqua aliqua in nostrud tempor anim adipisicing adipisicing nisi aliquip.",
+    "company": "Part-Time",
+    "role": "adf",
+    "website": "https://www.amazon.jobs/en/job_categories/software-development",
+    "extras": {
+      "jobType": "Internship",
+      "salary": 21509,
+      "startDate": "2022-05-02",
+      "endDate": "2022-05-04"
+    },
+    "id": 5,
+    "dateCreated": "2022-05-01T18:55:11.076Z",
+    "dateUpdated": "2022-05-01T18:55:11.076Z"
+  },
+  {
+    "description": "Do nisi proident ea enim do reprehenderit ullamco qui magna amet laborum.",
+    "company": "adsf",
+    "role": "asdf",
+    "website": "https://www.amazon.jobs/en/job_categories/software-development",
+    "extras": {
+      "jobType": "Full-Time",
+      "salary": 125820,
+      "startDate": "2022-05-01",
+      "endDate": "2022-05-04"
+    },
+    "id": 6,
+    "dateCreated": "2022-05-01T19:21:00.261Z",
+    "dateUpdated": "2022-05-01T19:21:13.467Z"
+  }
+]

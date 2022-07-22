@@ -1,0 +1,86 @@
+[
+    {
+        "ErNo": 735560,
+        "lastName": "Test",
+        "firstName": "Admin",
+        "role": "admin",
+        "hash": "$2a$10$KvqtdpmCPXpKkZs6HEiQBeES.mbCHTt.2lWS0XezCs7M3pJLXW4JG",
+        "dateCreated": "2022-04-25T05:21:20.472Z",
+        "dateUpdated": "2022-04-25T05:21:20.472Z"
+    },
+    {
+        "ErNo": 191324,
+        "lastName": "Hello",
+        "firstName": "abcde",
+        "role": "student",
+        "accounts": [
+            "abhijeet_ar",
+            "abhijeet_ar",
+            "abhijeet_ar",
+            "abhijeet_ar"
+        ],
+        "hash": "$2a$10$uRFEMCYhe9aLuEHxw/.gFOPn/mFDbsag2BYYo91mAxO63VfMC7tn.",
+        "dateCreated": "2022-04-25T05:26:38.832Z",
+        "dateUpdated": "2022-04-25T05:27:21.510Z"
+    },
+    {
+        "ErNo": 191332,
+        "lastName": "aggarwal",
+        "firstName": "sparsh",
+        "role": "admin",
+        "accounts": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "hash": "$2a$10$wbaY3yV1jwO7N6z0HMo0Ye8Kz2r5rdNMXFFvR5AkBZPcYdCvfFikG",
+        "dateCreated": "2022-05-01T17:56:29.494Z",
+        "dateUpdated": "2022-05-01T17:57:03.213Z"
+    },
+    {
+        "ErNo": 191323,
+        "lastName": "Kumar",
+        "firstName": "Sudeep",
+        "role": "student",
+        "accounts": [
+            "abhijeet_ar",
+            "abhijeet_ar",
+            "abhijeet_ar",
+            "abhijeet_ar"
+        ],
+        "hash": "$2a$10$bLGiTUySYHVdD/xrPqfdC.TuN1o3Vo1CmGF66vRb3GjBQeKnPNMne",
+        "dateCreated": "2022-05-03T06:51:07.072Z",
+        "dateUpdated": "2022-05-03T06:51:48.179Z"
+    },
+    {
+        "ErNo": 191325,
+        "lastName": "Kumar",
+        "firstName": "Sumit",
+        "role": "student",
+        "accounts": [
+            "Dark_Blood",
+            "abhijeet_ar",
+            "",
+            ""
+        ],
+        "hash": "$2a$10$Pv9DGsp45VxNIZWwaCff2eBM.gwTYsl0oQCGQPV9/Pe5CvMbQ/ZVi",
+        "dateCreated": "2022-05-03T18:11:46.533Z",
+        "dateUpdated": "2022-05-03T18:12:08.691Z"
+    },
+    {
+        "ErNo": 191333,
+        "lastName": "dfg",
+        "firstName": "drfty",
+        "role": "student",
+        "accounts": [
+            "Dark_Blood",
+            "",
+            "",
+            ""
+        ],
+        "hash": "$2a$10$IM1HfFR4gJ1Q8FQDTc2iPODPijnjkFZAxlTWZ.8eBx40Wo0HL4kV6",
+        "dateCreated": "2022-05-05T04:43:28.325Z",
+        "dateUpdated": "2022-05-05T04:44:03.780Z"
+    }
+]
